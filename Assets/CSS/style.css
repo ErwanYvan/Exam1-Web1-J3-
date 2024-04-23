@@ -75,3 +75,37 @@ nav {
 .image {
   max-width: max-content;
 }
+
+body {
+  position: relative;
+  z-index: 1;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+button {
+  height: 30px;
+  background-color: coral;
+}
+
+.resume {
+  color: rgb(255, 255, 255);
+  width: 400px;
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+
+.section {
+  color: white;
+  margin-right: 250px;
+  margin-left: 30px;
+  margin-top: 350px;
+}
+
+.container {
+  display: flex;
+  padding-bottom: 150px;
+  background-position: center;
+  background: url(../image/img1.jpeg);
+  background-size: cover;
+}
