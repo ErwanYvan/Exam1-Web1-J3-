@@ -109,6 +109,8 @@ button {
   background: url(../image/img1.jpeg);
   background-size: cover;
   background-position: bottom;
+  opacity: 88% Black;
+  width: 100%;
 }
 
 .title_anime {
