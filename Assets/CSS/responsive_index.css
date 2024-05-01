@@ -1,0 +1,187 @@
+@media screen and (max-width: 1390px) {
+  .img {
+    height: 35px;
+    width: 35px;
+    margin-top: 30px;
+    align-items: center;
+  }
+  .information {
+    gap: 10vh;
+    width: 50%;
+  }
+  .suggestion {
+    font-size: 20px;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 1260px) {
+  .information {
+    gap: 10vh;
+    width: 60%;
+  }
+  .suggestion {
+    margin-right: 50px;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 1060px) {
+  .information {
+    gap: 10vh;
+    width: 70%;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 920px) {
+  .information {
+    gap: 10vh;
+    width: 80%;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .information {
+    gap: 5vh;
+    width: 85%;
+  }
+  .information h2 {
+    font-size: 17px;
+  }
+  .information p {
+    font-size: 14px;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .search-container {
+    width: 200px;
+    height: 30px;
+  }
+  .search {
+    font-size: 10px;
+    width: 150px;
+    height: 20px;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .information {
+    gap: 3vh;
+    width: 90%;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .information {
+    gap: 2vh;
+    width: 100%;
+  }
+  .suggestion {
+    align-items: center;
+  }
+  .sociaux {
+    flex-wrap: wrap;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  nav {
+    font-size: 10px;
+    width: 104%;
+  }
+  .search-container {
+    width: 150px;
+    height: 25px;
+  }
+  .search {
+    font-size: 8px;
+    width: 150px;
+    height: 20px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .information {
+    gap: 1vh;
+    width: 95%;
+  }
+  .information h2 {
+    font-size: 15px;
+  }
+  .information p {
+    font-size: 12px;
+  }
+  .suggestion {
+    margin-right: 2px;
+    font-size: 15px;
+  }
+  nav {
+    width: 104%;
+  }
+}
+@media screen and (max-width: 435px) {
+  .search {
+    font-size: 5px;
+  }
+  nav {
+    width: 104%;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .information {
+    gap: 1vh;
+    width: 95%;
+  }
+  .information h2 {
+    font-size: 15px;
+  }
+  .information p {
+    font-size: 12px;
+  }
+  .suggestion {
+    margin-right: 2px;
+    font-size: 15px;
+  }
+  .search {
+    font-size: 5px;
+  }
+  .container {
+    width: 104%;
+  }
+  #CONTACTS {
+    width: 104%;
+  }
+}
+@media screen and (max-width: 415px) {
+  .resume {
+    width: 250px;
+    font-size: 10px;
+  }
+  nav {
+    width: 104%;
+  }
+}

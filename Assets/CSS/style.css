@@ -28,7 +28,7 @@ ul {
 }
 
 nav {
-  width: 100%;
+  width: 104%;
   height: 50px;
   display: flex;
   justify-content: space-around;
@@ -110,7 +110,7 @@ button {
   background-size: cover;
   background-position: bottom;
   opacity: 88% Black;
-  width: 100%;
+  width: 104%;
 }
 
 .title_anime {
